@@ -10,9 +10,9 @@ To explore green energy stock performance by analyzing financial data using Visu
 ## Results
 
 **Comparison of stock performance between 2017 and 2018:**<br />
-- **2017:** *DQ* had the highest return of all stocks in 2017 at about 200%. *TERP* had the least return and dropped about 7%. *FSLR* was the most actively traded stock and *DQ* was the least actively traded stock.<br /><br /> *![VBA_Challenge 2017](Module%202_Resources/VBA_Challenge_All%20Stocks_2017.png)*<br />
+**2017:** *DQ* had the highest return of all stocks in 2017 at about 200%. *TERP* had the least return and dropped about 7%. *FSLR* was the most actively traded stock and *DQ* was the least actively traded stock.<br /><br /> *![VBA_Challenge 2017](Module%202_Resources/VBA_Challenge_All%20Stocks_2017.png)*<br />
 
-- **2018:** *RUN* had the highest return at 84% followed by the *ENPH* at 82%. ENPH was the most actively traded stock of the year. *DQ* dropped over 63% and had the least performance of the year. <br /><br />![image](Module%202_Resources/VBA%20Challenge_All%20Stocks_2018.png)
+**2018:** *RUN* had the highest return at 84% followed by the *ENPH* at 82%. ENPH was the most actively traded stock of the year. *DQ* dropped over 63% and had the least performance of the year. <br /><br />![image](Module%202_Resources/VBA%20Challenge_All%20Stocks_2018.png)
 <br />
 
 **Comparison of VBA scripts execution time between 2017 and 2018** <br /><br />
