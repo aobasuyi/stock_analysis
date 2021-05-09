@@ -15,7 +15,7 @@ To explore green energy stock performance by analyzing financial data using VBA 
 **2018:** *RUN* had the highest return at 84% followed by the *ENPH* at 82%. *ENPH* was the most actively traded stock of the year. *DQ* dropped over 63% and had the least performance of the year. <br /><br />![image](Module%202_Resources/VBA%20Challenge_All%20Stocks_2018.png)
 <br />
 
-**Comparison of codes and execution time for 2017 and 2018** <br />
+**Comparison of codes and execution time for 2017 and 2018:** <br />
 To calculate the yearly return and how actively green energy stocks were traded for each year, nested ***For*** Loop was used in the original script analysis, while ***For*** Loops only, were used in the refactored script as shown below.<br /><br />
 **Original all stocks analysis code:**
 ```
@@ -65,7 +65,7 @@ Next i
              End If
     Next i
 ```
-**Comparison of VBA scripts execution time for 2017 and 2018** <br /><br />
+**Comparison of execution time for 2017 and 2018:** <br /><br />
 **2017:** The original script execution time was **0.8085938** seconds while refactoring the codes resulted in a lower execution time of **0.09375** seconds respectively as shown below. <br />
 | Original script time time  | Refactored script time |
 | ------------- | ------------- |
