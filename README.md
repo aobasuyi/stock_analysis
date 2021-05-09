@@ -65,7 +65,7 @@ Next i
              End If
     Next i
 ```
-**Comparison of execution time for 2017 and 2018:** <br /><br />
+**Execution time for 2017 and 2018:** <br /><br />
 **2017:** The original script execution time was **0.8085938** seconds while refactoring the codes resulted in a lower execution time of **0.09375** seconds respectively as shown below. <br />
 | Original script time time  | Refactored script time |
 | ------------- | ------------- |
