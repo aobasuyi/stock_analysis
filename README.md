@@ -75,7 +75,7 @@ Next i
 
 | Original script time time  | Refactored script time |
 | ------------- | ------------- |
-| ![Original_2018](Module%202_Resources/VBA_Original_2018.png)  | !*![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*  |
+| ![Original_2018](Module%202_Resources/VBA_Original_2018.png)  | *![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*  |
 
 ## Summary
 **Pros and Cons of refactoring code in general:** <br />
