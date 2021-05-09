@@ -67,13 +67,13 @@ Next i
 ```
 **Execution time for 2017 and 2018:** <br /><br />
 **2017:** The original script execution time was **0.8085938** seconds while refactoring the codes resulted in a lower execution time of **0.09375** seconds respectively as shown below. <br />
-| Original script time time  | Refactored script time |
+| Original script time  | Refactored script time |
 | ------------- | ------------- |
 | ![Original_2017](Module%202_Resources/VBA_Original_2017.png)  | ![Refactored_2017](Module%202_Resources/VBA_Challenge_2017.png)  |
 
 **2018:** The original script execution time was **0.796875** seconds while refactoring the codes also resulted in a lower execution time of **0.0859375** seconds respectively as shown below .<br />
 
-| Original script time time  | Refactored script time |
+| Original script time  | Refactored script time |
 | ------------- | ------------- |
 | ![Original_2018](Module%202_Resources/VBA_Original_2018.png)  | *![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*  |
 
