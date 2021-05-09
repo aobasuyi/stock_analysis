@@ -2,10 +2,10 @@
 Performing analysis on green energy stock data.
 
 ## Overview of Project
-This project used Visual Basic for Applications (VBA) programming language to create flexible and interactive macros to run analyses on multiple stocks. The results of the analyses provide insights on the trading volume and the performance of a green energy stock, DAQO New Energy Corp (DQ) and will guide decisions on how to diversify the green energy stock portfolio. The analyses will also provide information on the cost of running the VBA automated scripts. The analysis was performed using the [Stock_analysis](https://github.com/aobasuyi/stock_analysis/blob/main/VBA_Challenge.xlsm) dataset.
+This project used Visual Basic for Applications (VBA) programming language to create flexible and interactive macros to run analyses on multiple stocks. The results of the analyses provide insights on the trading volume and the performance of a green energy stock, DAQO New Energy Corp (DQ) and will guide decisions on how to diversify the green energy stock portfolio. The analyses will also provide information on the cost of running the VBA automated scripts. The analyses were performed using the [Stock_analysis](https://github.com/aobasuyi/stock_analysis/blob/main/VBA_Challenge.xlsm) dataset.
 
 ### Purpose
-To explore green energy stock performance by analyzing financial data using Visual Basic for Applications (VBA) and to refactor codes to make the VBA scripts run faster.
+To explore green energy stock performance by analyzing financial data using VBA and to refactor codes to make the VBA scripts run faster.
 
 ## Results
 
@@ -16,7 +16,7 @@ To explore green energy stock performance by analyzing financial data using Visu
 <br />
 
 **Comparison of codes and execution time for 2017 and 2018** <br />
-To calculate how actively energy stocks were traded and the yearly return for each year, nested ***For*** Loops were used in the original script analysis, while ***For*** Loops only were used in the refactored script as shown below.<br /><br />
+To calculate the yearly return and how actively green energy stocks were traded for each year, nested ***For*** Loop was used in the original script analysis, while ***For*** Loops only, were used in the refactored script as shown below.<br /><br />
 **Original all stocks analysis code:**
 ```
 #Loop through the tickers.
@@ -78,7 +78,7 @@ Next i
 | ![Original_2018](Module%202_Resources/VBA_Original_2018.png)*  | !*![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*  |
 
 ## Summary
-**Advantages and disadvantages of refactoring code in general:** <br />
-Refactoring is a key part of the coding process to make a code more efficient. It does not add new features or functionalities. Refactoring may involve taking fewer steps or improving the logic of the code to make it easier for future users to read. Some advantages include refactored codes are less complex and are easier to understand or read.  Refactoring takes make codes more by taking fewer steps thereby using less memory. However, refactoring is time consuming and can introduce bugs. The cost of refactoring therefore can be higher than rewriting the code from scratch.<br /><br />
-**Advantages and disadvantages of the original and refactored VBA script:**<br />
-After refactoring, the VBA codes were less complex and easier to read because it did not used nested “For” loops. The execution time for the refactored codes reduced significantly which could lead to cost savings in real life situations. However, refactoring the original VBA scripts introduced bugs to the codes. It was time consuming to debug the code using ***Toggle Breakpoints*** to track each line of code to fix the bugs.
+**Pros and Cons of refactoring code in general:** <br />
+Refactoring is a key part of the coding process to make a code more efficient. It does not add new features or functionalities. Refactoring may involve taking fewer steps or it may involve improving the logic of the code to make it easier for users to read. Some advantages include that codes are easier to read and understand. Codes are also less complex or may take fewer steps thereby using less memory. However, refactoring is time consuming and can introduce bugs. The cost of refactoring therefore, can be higher than rewriting the code from scratch.<br /><br />
+**Pros and Cons of the original and refactored VBA script:**<br />
+The refactored VBA script for this project was less complex and easier to read because it did not use nested ***For*** loops. The execution time for the refactored script reduced significantly which could lead to cost savings in real life situations. However, refactoring the original VBA script introduced bugs to the codes. It was time consuming to debug the code using ***Toggle Breakpoints*** to track each line of code to fix the bugs.
