@@ -65,19 +65,18 @@ Next i
              End If
     Next i
 ```
-
 **Comparison of VBA scripts execution time for 2017 and 2018** <br /><br />
-- **2017:** The original VBA script execution time was **0.8085938** seconds. <br />
-*![Original_2017](Module%202_Resources/VBA_Original_2017.png)*. <br /> 
+**2017:** The original script execution time was **0.8085938** seconds while refactoring the codes resulted in a lower execution time of **0.09375** seconds respectively as shown below. <br />
+| Original script time time  | Refactored script time |
+| ------------- | ------------- |
+| ![Original_2017](Module%202_Resources/VBA_Original_2017.png)*  | ![Refactored_2017](Module%202_Resources/VBA_Challenge_2017.png)  |
 
-The refactored VBA script execution time was **0.09375** seconds respectively. <br />
-*![Refactored_2017](Module%202_Resources/VBA_Challenge_2017.png)* <br />
+**2018:** The original script execution time was **0.796875** seconds while refactoring the codes also resulted in a lower execution time of **0.0859375** seconds respectively as shown below .<br />
 
-- **2018:** The executive time of the original VBA script was **0.796875** seconds.<br />
-*![Original_2018](Module%202_Resources/VBA_Original_2018.png)*<br />
-While the refactored VBA script execution time was **0.0859375** seconds respectively.
-<br />, *![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*
- 
+| Original script time time  | Refactored script time |
+| ------------- | ------------- |
+| ![Original_2018](Module%202_Resources/VBA_Original_2018.png)*  | !*![Refactored_2018](Module%202_Resources/VBA_Challenge_2018%20.png)*  |
+
 ## Summary
 **Advantages and disadvantages of refactoring code in general:** <br />
 Refactoring is a key part of the coding process to make a code more efficient. It does not add new features or functionalities. Refactoring may involve taking fewer steps or improving the logic of the code to make it easier for future users to read. Some advantages include refactored codes are less complex and are easier to understand or read.  Refactoring takes make codes more by taking fewer steps thereby using less memory. However, refactoring is time consuming and can introduce bugs. The cost of refactoring therefore can be higher than rewriting the code from scratch.<br /><br />
