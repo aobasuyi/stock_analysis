@@ -1,16 +1,16 @@
 # VBA stock_analysis
-Performing analysis on green energy stock dataset
+Performing analysis on green energy stock data.
 
 ## Overview of Project
-This project used Visual Basic for Applications (VBA) programming language to explore and analyze stock data. VBA was used to create flexible and interactive macros to run analyses on multiple stocks. The results of the analyses will provide insights on the trading volume and the performance of green energy stock specifically DAQO New Energy Corp (DQ) to guide decisions on how to diversify the green energy stock portfolio. The analyses will also provide information on the cost of running the VBA automated scripts. The analysis was performed using the [Stock_analysis](https://github.com/aobasuyi/stock_analysis/blob/main/VBA_Challenge.xlsm) dataset
+This project used Visual Basic for Applications (VBA) programming language to create flexible and interactive macros to run analyses on multiple stocks. The results of the analyses provide insights on the trading volume and the performance of a green energy stock, DAQO New Energy Corp (DQ) and will guide decisions on how to diversify the green energy stock portfolio. The analyses will also provide information on the cost of running the VBA automated scripts. The analysis was performed using the [Stock_analysis](https://github.com/aobasuyi/stock_analysis/blob/main/VBA_Challenge.xlsm) dataset.
 
 ### Purpose
-To explore green energy stock performance by analyzing financial data using Visual Basic for Applications (VBA)
+To explore green energy stock performance by analyzing financial data using Visual Basic for Applications (VBA) and to refactor codes to make the VBA scripts run faster.
 
 ## Results
 
-**Comparison of stock performance between 2017 and 2018**<br />
-**2017:** This result shows that *DQ* had the highest return of all stocks in 2017 at 200%. *TERP* had the least return and dropped about 7%. *FSLR* was the most actively traded stock and *DQ* was the least actively traded stock.<br /><br /> *![VBA_Challenge 2017](Module%202_Resources/VBA_Challenge_All%20Stocks_2017.png)*<br />
+**Comparison of stock performance between 2017 and 2018:**<br />
+**2017:** *DQ* had the highest return of all stocks in 2017 at about 200%. *TERP* had the least return and dropped about 7%. *FSLR* was the most actively traded stock and *DQ* was the least actively traded stock.<br /><br /> *![VBA_Challenge 2017](Module%202_Resources/VBA_Challenge_All%20Stocks_2017.png)*<br />
 <br />
 **2018:** This result shows that *RUN* had the highest return at 84% followed by the *ENPH* at 82%. ENPH was the most actively traded stock of the year. *DQ* dropped over 63% and had the least performance of the year. <br /><br />![image](Module%202_Resources/VBA%20Challenge_All%20Stocks_2018.png)
 <br /><br />
